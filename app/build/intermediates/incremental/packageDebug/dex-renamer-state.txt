@@ -1,0 +1,7 @@
+#Wed Apr 19 14:46:52 COT 2017
+base.0=/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c027b7e04adaca5d2eab0c8c6173083167c7d8c9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b7ed311f3f5032670a734f6a2c2a3a078441ae66/classes.dex
+base.1=/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b7ed311f3f5032670a734f6a2c2a3a078441ae66
+file.0=/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c027b7e04adaca5d2eab0c8c6173083167c7d8c9/classes.dex

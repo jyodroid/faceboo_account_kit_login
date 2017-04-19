@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/johntangarife/.android/build-cache/eeb97ee3567e2d296cb2d55ccb4a8b4441cf7546/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/johntangarife/.android/build-cache/eeb97ee3567e2d296cb2d55ccb4a8b4441cf7546/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

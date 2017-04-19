@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/johntangarife/.android/build-cache/eeb97ee3567e2d296cb2d55ccb4a8b4441cf7546/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/johntangarife/.android/build-cache/eeb97ee3567e2d296cb2d55ccb4a8b4441cf7546/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/johntangarife/.android/build-cache/eeb97ee3567e2d296cb2d55ccb4a8b4441cf7546/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/johntangarife/Documents/Udacity/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/johntangarife/.android/build-cache/eeb97ee3567e2d296cb2d55ccb4a8b4441cf7546/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
